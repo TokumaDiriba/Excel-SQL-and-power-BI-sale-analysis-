@@ -46,6 +46,10 @@ Various aspects of pizza sales data were visualized to gain insights and underst
 **Excel Dashboard** 
 
 • Created an interactive Excel dashboard incorporating pivot tables and visually compelling charts.
+<img width="767" height="447" alt="Screenshot 2026-05-16 153205" src="https://github.com/user-attachments/assets/f1e8993b-6ded-42f4-94b3-47f81b8c2ee0" />
+<img width="944" height="559" alt="Screenshot 2026-05-16 152753" src="https://github.com/user-attachments/assets/29cadf2e-60e7-412a-8972-81d26eaf8477" />
+<img width="1132" height="550" alt="Screenshot 2026-05-16 153052" src="https://github.com/user-attachments/assets/9a058885-7c82-4fca-b123-46e40b30fb4a" />
+
 
 **Power BI Dashboard** 
 
