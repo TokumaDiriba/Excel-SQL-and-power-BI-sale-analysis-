@@ -1,3 +1,4 @@
+
 # Excel-SQL-and-power-BI-sale-analysis-
 **Project Overview**
 
@@ -50,3 +51,7 @@ Various aspects of pizza sales data were visualized to gain insights and underst
 
 • Constructed a dynamic and interactive dashboard.
 • The emphasis was on data integration and the creation of visually appealing, informative visualizations.
+<img width="921" height="517" alt="Screenshot 2026-05-16 145900" src="https://github.com/user-attachments/assets/a23752bb-9acf-4f26-bc82-aca64395e082" />
+<img width="921" height="514" alt="Screenshot 2026-05-16 145346" src="https://github.com/user-attachments/assets/fcfece18-79fe-4396-90a5-ea3aa9fc511a" />
+<img width="926" height="509" alt="Screenshot 2026-05-16 145818" src="https://github.com/user-attachments/assets/8f754b99-f065-499d-8d5d-cc8dad0db6d6" />
+
